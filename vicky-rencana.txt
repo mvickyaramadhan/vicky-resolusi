@@ -1,5 +1,5 @@
 Rencana vicky kedepan:
 - Pastinya belajar sysadmin
   *belajar IT Infrastructure DLL
-  *belajar deploy
+- Belajar make python
 - belajar git & gitlab
