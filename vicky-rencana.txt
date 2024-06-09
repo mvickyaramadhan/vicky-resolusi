@@ -5,3 +5,5 @@ Rencana vicky kedepan:
   *belajar web prog
   *belajar deploy
 - belajar git & gitlab
+
+tambahan
